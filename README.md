@@ -17,7 +17,7 @@ NetCraft'ın amacı karmaşık ağ yapılandırmalarına girmeden, **ağ mimaris
 
 Projeyi canlı olarak deneyebilirsiniz:
 
-🔗 
+🔗 netcraft-mu.vercel.app
 
 ---
 
