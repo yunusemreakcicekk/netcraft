@@ -187,4 +187,8 @@ YUNUS EMRE AKÇİÇEK
 
 # Lisans
 
+
 Bu proje MIT lisansı ile açık kaynak olarak paylaşılmıştır.
+
+Bu proje MIT lisansı ile açık kaynak olarak paylaşılmıştır.
+
