@@ -1,0 +1,6 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="100%" fill="#f0f8ff" />
+  <rect x="50" y="50" width="700" height="500" fill="none" stroke="#ccc" stroke-width="2" />
+  <text x="400" y="300" font-family="Arial" font-size="40" fill="#ccc" text-anchor="middle">Home Network Arena</text>
+  <path d="M200,200 L600,200 L600,400 L200,400 Z" fill="none" stroke="#ddd" stroke-dasharray="5,5" />
+</svg>

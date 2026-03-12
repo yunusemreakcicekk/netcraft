@@ -1,0 +1,9 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="100%" fill="#fffbf0" />
+  <rect x="50" y="50" width="700" height="500" fill="none" stroke="#ccc" stroke-width="2" />
+  <text x="400" y="300" font-family="Arial" font-size="40" fill="#ccc" text-anchor="middle">Office Network Arena</text>
+  <rect x="100" y="100" width="200" height="150" fill="none" stroke="#ddd" />
+  <text x="200" y="175" font-family="Arial" font-size="20" fill="#ddd" text-anchor="middle">Server Room</text>
+  <rect x="400" y="100" width="300" height="400" fill="none" stroke="#ddd" />
+  <text x="550" y="300" font-family="Arial" font-size="20" fill="#ddd" text-anchor="middle">Workstations</text>
+</svg>
